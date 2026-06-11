@@ -1,4 +1,6 @@
 # EXp_03_-Entity-Student-and-build-a-CRUD-operations-using-Spring-Boot-Hibernate-Configuration
+## NAME : MOULISHWAR G
+## REGISTER NO : 2305001020
 
 ## AIM:
 To develop a Spring Boot application that performs CRUD (Create, Read, Update, Delete) operations on a Student entity using Spring Data JPA (Hibernate).
@@ -165,3 +167,20 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 }
+
+### OUTPUT:
+
+
+<img width="813" height="526" alt="image" src="https://github.com/user-attachments/assets/3d5ea74c-105e-4217-8878-5bc1ffe7c0a1" />
+
+<img width="815" height="534" alt="image" src="https://github.com/user-attachments/assets/5b3d8c17-a672-47ee-8d85-c021b25bd342" />
+
+<img width="814" height="533" alt="image" src="https://github.com/user-attachments/assets/7ac22048-8cdb-4ce8-b4ce-7a411e2175b5" />
+
+<img width="817" height="536" alt="image" src="https://github.com/user-attachments/assets/971e95ab-58e6-4eee-8953-df2f6624a3a3" />
+
+
+### RESULT :
+
+Thus,the Spring Boot application that performs CRUD (Create, Read, Update, Delete) operations on a Student entity using Spring Data JPA (Hibernate) was implemented and executed successfully.
+
